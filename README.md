@@ -5,7 +5,7 @@ Ce projet vise à classifier les préférences musicales des utilisateurs Spotif
 
 ## Données
 Les données proviennent de l'API Spotify et incluent des informations sur les morceaux, les artistes et les utilisateurs.
-(https://www.kaggle.com/code/devraai/analyzing-spotify-streaming-history-insights){voici le lien vers le projet sur kaggle}
+(https://www.kaggle.com/code/devraai/analyzing-spotify-streaming-history-insights) {voici le lien vers le projet sur kaggle}
 
 ## Méthodologie
 - Nettoyage des données avec Python et Pandas.
