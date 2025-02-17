@@ -17,10 +17,10 @@ Les données proviennent de l'API Spotify et incluent des informations sur les m
 ### 1ère étape: importer les bibliotheques dont nous avons besoin sur python
 
 Grâce aux commandes: 
-▬import numpy as np
-▬import pandas as pd
-▬import seaborn as sns
-▬import matplotlib.pyplot as plt
+- import numpy as np
+- import pandas as pd
+- import seaborn as sns
+- import matplotlib.pyplot as plt
 
 Nous allons pouvoir nettoyer, trier analyser et visualiser les données. 
 numpy= langage de programmation 
