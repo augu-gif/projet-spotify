@@ -13,12 +13,22 @@ Les données proviennent de l'API Spotify et incluent des informations sur les m
 - Analyse exploratoire avec Matplotlib et Seaborn.
 - Classification avec Scikit-learn.
 
-## Résultats
+## Notebook
+### 1ère étape: importer les bibliotheques dont nous avons besoin sur python/
+
+Grâce aux commandes: 
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+Nous allons pouvoir nettoyer, trier analyser et visualiser les données. 
+numpy= langage de programmation 
 
 
 ## Technologies utilisées
 - Python
-- Pandas, Matplotlib, Seaborn, Scikit-learn
+- Pandas, Matplotlib, Seaborn, Numpy
 
 ## Lien vers le code
 
