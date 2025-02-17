@@ -14,7 +14,7 @@ Les données proviennent de l'API Spotify et incluent des informations sur les m
 - Classification avec Scikit-learn.
 
 ## Notebook
-### 1ère étape: importer les bibliotheques dont nous avons besoin sur python/
+### 1ère étape: importer les bibliotheques dont nous avons besoin sur python
 
 Grâce aux commandes: 
 import numpy as np
