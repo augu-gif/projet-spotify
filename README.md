@@ -1,7 +1,7 @@
 # Analyse des données Spotify
 
 ## Objectif
-Ce projet vise à classifier les préférences musicales d'un utilisateur Spotify.
+Ce projet vise à classifier et visualiser les préférences musicales d'un utilisateur Spotify.
 
 ## Données
 Les données proviennent de l'API Spotify et incluent des informations sur: l'URI Spotify, le moment où la lecture du titre s'est arrêtée, Plateforme utilisée lors de la diffusion du titre,Nombre de millisecondes pendant lesquelles le flux a été lu,Nom de la piste, Nom de l'artiste, Nom de l'album, Pourquoi le morceau a commencé, Pourquoi la piste s'est terminée, VRAI ou FAUX selon que le mode aléatoire a été utilisé lors de la lecture de la piste, VRAI ou FAUX selon que l'utilisateur est passé à la chanson suivante.
@@ -9,7 +9,7 @@ Les données proviennent de l'API Spotify et incluent des informations sur: l'UR
 
 ## Notebook
 
-### premièrere étape: importer les bibliotheques dont nous avons besoin sur python pour analyser et trier les données.
+### premièrere étape: importer les bibliotheques dont nous avons besoin sur python pour analyser, trier et visualiser les données.
 
 Grâce aux commandes: 
 - import numpy as np
@@ -18,7 +18,7 @@ Grâce aux commandes:
 - import matplotlib.pyplot as plt
 
 Nous allons pouvoir nettoyer, trier analyser et visualiser les données. 
-numpy= langage de programmation 
+ 
 
 ## Technologies utilisées
 - Python
