@@ -8,7 +8,8 @@ Les données proviennent de l'API Spotify et incluent des informations sur: l'UR
 [projet kaggle](https://www.kaggle.com/code/devraai/analyzing-spotify-streaming-history-insights)
 
 ## Notebook
-### 1ère étape: importer les bibliotheques dont nous avons besoin sur python pour analyser et trier les données.
+
+### premièrere étape: importer les bibliotheques dont nous avons besoin sur python pour analyser et trier les données.
 
 Grâce aux commandes: 
 - import numpy as np
