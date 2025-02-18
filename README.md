@@ -1,7 +1,7 @@
 # Analyse des données Spotify
 
 ## Objectif
-Ce projet vise à classifier les préférences musicales des utilisateurs Spotify en fonction de leurs habitudes d'écoute.
+Ce projet vise à classifier les préférences musicales d'un utilisateur Spotify.
 
 ## Données
 Les données proviennent de l'API Spotify et incluent des informations sur les morceaux, les artistes et les utilisateurs.
