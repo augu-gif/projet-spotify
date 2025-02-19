@@ -55,7 +55,7 @@ Nous savons donc maintenant que l'utilisateur a pour chanson préféré ode to t
 
 Visualisons maintenant son temps d'écoute des beatles grace a seaborn et matpotlib:    
 ![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-the%20beatles-code.png?raw=true)   
-voici un graphique pour visualiser les données:  
+Voici un graphique pour visualiser les données:  
 ![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-tableau-beatles%20.png?raw=true)
                      
  ## Technologies utilisées
