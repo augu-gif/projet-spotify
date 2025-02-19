@@ -15,7 +15,14 @@ Grâce aux commandes:
 
 ![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-library.png?raw=true)
 
-Nous allons pouvoir nettoyer, trier analyser et visualiser les données. 
+Nous allons pouvoir nettoyer, trier analyser et visualiser les données:
+
+-import numpy as np = Permet de manipuler les tableaux et calculs numériques.
+-import pandas as pd = Permet de  Manipuler et analyser des données tabulaires.
+-import seaborn as sns =Permet de Visualiser des données statistiques
+-import matplotlib.pyplot as plt = Permet de créer des graphiques en 2D
+-plt.switch_backend('Agg') = Permet d'afficher correctement des images sans affichage interactif (backend)
+-%matpotlib inline = Permet d'afficher dirrectement les graphiques dans un notebook jupyter
  
 
 ## Technologies utilisées
