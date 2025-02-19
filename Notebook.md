@@ -38,7 +38,7 @@ Nous pouvons maintenant importer les données que nous devons analyser.
 
 ### Troisième partie: nettoyer les données 
 
-Grâce à la commande: spotify_history.isnull().sum() nous pouvons voir si il y'a des valeurs manquantes: 
+Grâce à la commande: spotify_history.isnull().sum() nous pouvons voir si il y'a des valeurs manquantes:   
 ![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-donn%C3%A9es-manquantes.png?raw=true)
 
 dans ce tableau, nous pouvons voir que 143 données sonr manquantes dans la ligne reason_start et 117 dans la ligne reason_end. J'ai donc décidé de les supprimé avec commande :spotify_history = spotify_history.dropna(subset=['reason_start', 'reason_end']):  
