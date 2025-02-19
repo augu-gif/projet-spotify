@@ -35,6 +35,8 @@ Nous pouvons maintenant importer les données que nous devons analyser.
 
 - pd. read_csv() =  Permet de charger des données à partir d'un fichier CSV dans un DataFrame
 - spotify_history.head() =  Permet d'afficher les premières lignes sans avoir à charger l'intégralité du tableau
+  ![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-head.png?raw=true)
+  
 
 ### Troisième partie: nettoyer les données 
 
