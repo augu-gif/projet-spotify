@@ -20,7 +20,7 @@ Nous allons pouvoir nettoyer, trier analyser et visualiser les données:
 - import seaborn as sns =Permet de Visualiser des données statistiques.
 - import matplotlib.pyplot as plt = Permet de créer des graphiques en 2D.
 - plt.switch_backend('Agg') = Permet d'afficher correctement des images sans affichage interactif (backend).
-- %matpotlib inline = Permet d'afficher dirrectement les graphiques dans un notebook jupyter.
+- %matpotlib inline = Permet d'afficher directement les graphiques dans un notebook jupyter.
 
   Pandas et numpy sont des outils de manipulation de données tandis que seaborn et matpotlib sont des outils de visualisation. 
 
