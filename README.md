@@ -28,7 +28,7 @@ Nous allons pouvoir nettoyer, trier analyser et visualiser les données:
 
 Grâce aux commandes:
 
-![tableau jupyter]
+![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-data-spotify.png?raw=true)
   
  
 
