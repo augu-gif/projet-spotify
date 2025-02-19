@@ -13,7 +13,7 @@ Les données proviennent de l'API Spotify et incluent des informations sur: l'UR
 
 Grâce aux commandes: 
 
-(https://github.com/augu-gif/projet-spotify/blob/main/import-library.png?raw=true)
+!(https://github.com/augu-gif/projet-spotify/blob/main/import-library.png?raw=true)
 
 Nous allons pouvoir nettoyer, trier analyser et visualiser les données. 
  
