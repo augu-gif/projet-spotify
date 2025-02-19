@@ -48,6 +48,14 @@ Les lignes avec les valeurs manquantes ont bien été supprimé
 
 
 ### Quatrième partie: analyser les données 
+Il peut être interessant de savoir quel artiste, album et titres ont été les plus joué.
+ grâce aux commande: - artist_counts = spotify_history['artist_name'].value_counts().idxmax(), 
+                     - most_listened_track = spotify_history['track_name'].value_counts().idxmax()
+                     - most_listened_album = spotify_history['album_name'].value_counts().idxmax()
+
+Nous savons donc maintenant que l'utilisateur est un fan des beatles!!
+   ![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-artiste-le-plus-%C3%A9cout%C3%A9.png?raw=true)
+                     
  
  ## Technologies utilisées
 - Python
