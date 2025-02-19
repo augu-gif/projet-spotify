@@ -12,7 +12,7 @@ Les données proviennent de l'API Spotify et incluent des informations sur: l'UR
 ### premièrere étape: importer les bibliotheques dont nous avons besoin sur python pour analyser, trier et visualiser les données.
 
 Grâce aux commandes: 
-(images/projet-spotify/import-library.png)
+<img src="projet-spotify/import-library.png" alt="tableau jupyter" width="400">
 
 Nous allons pouvoir nettoyer, trier analyser et visualiser les données. 
  
