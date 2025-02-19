@@ -57,8 +57,11 @@ Il peut être interessant de savoir quel artiste, album et titres ont été les 
  - most_listened_track = spotify_history['track_name'].value_counts().idxmax()
  - most_listened_album = spotify_history['album_name'].value_counts().idxmax()
 
-Nous savons donc maintenant que l'utilisateur est un fan des beatles!!   
+Nous savons donc maintenant que l'utilisateur a pour chanson préféré ode to the mets et que son artiste et album préféré sont: les beatles !!   
 ![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-artiste-le-plus-%C3%A9cout%C3%A9.png?raw=true)
+
+Visualisons maintenant son temps d'écoute des beatles grace a seaborn et matpotlib:    
+![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-the%20beatles-code.png?raw=true)
                      
  
  ## Technologies utilisées
