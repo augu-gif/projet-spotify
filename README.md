@@ -57,6 +57,11 @@ Visualisons maintenant son temps d'écoute des beatles grace a seaborn et matpot
 ![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-the%20beatles-code.png?raw=true)   
 Voici un graphique pour visualiser les données:  
 ![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-tableau-beatles%20.png?raw=true)
+
+Il est également interessant de savoir quand est ce que l'utilisateur a le plus utilisé l'application:   
+
+![tableau jupyter](https://github.com/augu-gif/projet-spotify/blob/main/import-utilisation-par-ann%C3%A9e.png?raw=true)
+
                      
  ## Technologies utilisées
 - Python
