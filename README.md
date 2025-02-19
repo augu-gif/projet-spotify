@@ -9,7 +9,7 @@ Les données proviennent de l'API Spotify et incluent des informations sur: l'UR
 
 ## Notebook
 
-### premièrere étape: importer les bibliotheques dont nous avons besoin sur python pour analyser, trier et visualiser les données.
+### première étape: importer les bibliotheques dont nous avons besoin sur python pour analyser, trier et visualiser les données.
 
 Grâce aux commandes: 
 
