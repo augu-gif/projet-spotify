@@ -12,17 +12,14 @@ Les données proviennent de l'API Spotify et incluent des informations sur: l'UR
 ### premièrere étape: importer les bibliotheques dont nous avons besoin sur python pour analyser, trier et visualiser les données.
 
 Grâce aux commandes: 
-- import numpy as np
-- import pandas as pd
-- import seaborn as sns
-- import matplotlib.pyplot as plt
+(import/import library.jpg)
 
 Nous allons pouvoir nettoyer, trier analyser et visualiser les données. 
  
 
 ## Technologies utilisées
 - Python
-- Pandas, Matplotlib, Seaborn, Numpy#
+- Pandas, Matplotlib, Seaborn, Numpy
 
 ## Retour vers mon portfolio
 
