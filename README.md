@@ -23,7 +23,7 @@ Nous allons pouvoir nettoyer, trier analyser et visualiser les données:
 - plt.switch_backend('Agg') = Permet d'afficher correctement des images sans affichage interactif (backend).
 - %matpotlib inline = Permet d'afficher dirrectement les graphiques dans un notebook jupyter.
 
-- Pandas et numpy sont des outils de manipulation de données tandis que seaborn et matpotlib sont des outils de visualisation. 
+  Pandas et numpy sont des outils de manipulation de données tandis que seaborn et matpotlib sont des outils de visualisation. 
 
    ### Deuxième étape: importer les fichiers à analyser
 
