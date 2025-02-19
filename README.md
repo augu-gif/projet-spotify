@@ -1,6 +1,6 @@
 # Analyse des données Spotify
 
-<u>Objectif</u>
+## Objectif
 Ce projet vise à classifier et visualiser les préférences musicales d'un utilisateur Spotify.
 
 ## Données
