@@ -9,7 +9,7 @@ Les données proviennent de l'API Spotify et incluent des informations sur: l'UR
 
 ## Notebook
 
-### première étape: importer les bibliotheques dont nous avons besoin sur python pour analyser, trier et visualiser les données.
+### Première étape: importer les bibliotheques dont nous avons besoin sur python pour analyser, trier et visualiser les données.
 
 Grâce aux commandes: 
 
@@ -23,6 +23,13 @@ Nous allons pouvoir nettoyer, trier analyser et visualiser les données:
 - import matplotlib.pyplot as plt = Permet de créer des graphiques en 2D
 - plt.switch_backend('Agg') = Permet d'afficher correctement des images sans affichage interactif (backend)
 - %matpotlib inline = Permet d'afficher dirrectement les graphiques dans un notebook jupyter
+
+  ### Deuxième étape: importer les fichiers à analyser
+
+Grâce aux commandes:
+
+![tableau jupyter]
+  
  
 
 ## Technologies utilisées
