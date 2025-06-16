@@ -10,18 +10,6 @@ Ce projet analyse les données d'écoute d'un utilisateur Spotify pour extraire 
 - Visualisations des données
 - Statistiques détaillées sur les habitudes d'écoute
 
-## Structure du Projet
-
-```
-projet-spotify/
-├── code/
-│   ├── analyse_spotify.py
-│   ├── spotify_history.csv
-│   └── spotify_data_dictionary.csv
-├── requirements.txt
-└── README.md
-```
-
 ## Installation
 
 1. Clonez le dépôt :
@@ -57,6 +45,4 @@ Le script générera :
 - seaborn >= 0.11.0
 - plotly >= 5.13.0
 
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails. 
+[Retour sur Mon Portfolio](https://github.com/augu-gif/mon-portfolio-data-analyst/blob/main/README.md)
