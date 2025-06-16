@@ -45,4 +45,4 @@ Le script générera :
 - seaborn >= 0.11.0
 - plotly >= 5.13.0
 
-[retour vers mon portfolio](https://github.com/augu-gif/mon-portfolio-data-analyst/blob/main/README.md)
+[Retour vers mon portfolio](https://github.com/augu-gif/mon-portfolio-data-analyst/blob/main/README.md)
