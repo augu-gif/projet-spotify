@@ -173,6 +173,4 @@ Le script générera :
 | Retour arrière    | 2 182   |
 
 ---
-## Retour sur Mon Portfolio
-
 [Mon Portfolio](https://github.com/augu-gif/mon-portfolio-data-analyst/blob/main/README.md)
