@@ -1,6 +1,7 @@
 # Analyse des Données d'Écoute Spotify
 
-Ce projet analyse les données d'écoute d'un utilisateur Spotify pour extraire des insights sur ses habitudes d'écoute musicale. [Lien vers le projet kaggle](https://www.kaggle.com/code/augustinmontreuil/analyzing-spotify-streaming-history-insights/edit)
+Ce projet analyse les données d'écoute d'un utilisateur Spotify pour extraire des insights sur ses habitudes d'écoute musicale. 
+[Lien vers le projet kaggle](https://www.kaggle.com/code/augustinmontreuil/analyzing-spotify-streaming-history-insights/edit)
 
 ## Fonctionnalités
 
